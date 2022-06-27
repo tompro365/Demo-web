@@ -1,0 +1,11 @@
+    <table id="T">
+        <tr id="T1">
+     1       <th>STT</th>
+      2      <th>Họ và tên</th>
+       3     <th>Lớp</th>
+        4    <th>Ngày sinh</th>
+         5   <th>Biệt danh ở nhà</th>
+          6  <th>Tính cách</th>
+           7 <th>Thích màu</th>
+            8<th>Sở thích</th>
+            9<th>Ghét</th>
